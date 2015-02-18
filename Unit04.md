@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM204: Bioorganic Chemistry"
+course_description: "An examination of the biological importance of organic molecules. Topics include bioorganic mechanisms, chirality, lipids, carbohydrates, animo acids, peptides, proteins, nucleic acids, enzymes, coenzymes, and coupled reactions, and lipid, carbohydrate, amino acid, and nucleotide metabolism."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Carbohydrate Metabolism** <span id="4"></span> 
 *Carbohydrates have the general formula
 C<sub>n</sub>H<sub>2n</sub>O<sub>n</sub>.  Autotrophs synthesize

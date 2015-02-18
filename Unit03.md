@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM204: Bioorganic Chemistry"
+course_description: "An examination of the biological importance of organic molecules. Topics include bioorganic mechanisms, chirality, lipids, carbohydrates, animo acids, peptides, proteins, nucleic acids, enzymes, coenzymes, and coupled reactions, and lipid, carbohydrate, amino acid, and nucleotide metabolism."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Lipid Metabolism** <span id="3"></span> 
 *The term “lipid” refers to a broad group of hydrophobic biomolecules. 
 This family of compounds includes fats, waxes, steroids, fat-soluble

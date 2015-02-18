@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM204: Bioorganic Chemistry"
+course_description: "An examination of the biological importance of organic molecules. Topics include bioorganic mechanisms, chirality, lipids, carbohydrates, animo acids, peptides, proteins, nucleic acids, enzymes, coenzymes, and coupled reactions, and lipid, carbohydrate, amino acid, and nucleotide metabolism."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Amino Acids and Metabolism** <span id="5"></span> 
 *Amino acids are biomolecules that contain an amine group and a
 carboxylic acid group.  They also contain a side chain that varies
