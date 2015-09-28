@@ -168,3 +168,4 @@ Genetics](http://www.saylor.org/courses/bio305/).
 - [Unit 5](https://legacy.saylor.org/chem204/Unit05/)
 - [Unit 6](https://legacy.saylor.org/chem204/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem204/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM204/CHEM204-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM204/CHEM204-FinalExam-Answers.html)
