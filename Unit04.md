@@ -102,11 +102,11 @@ id="4.1"></span> 
 -   **Reading: University of California, Davis: ChemWiki: “Cellulose,”
     “Glycogen,” and “Starch”**
     Link: University of California, Davis ChemWiki:
-    [“Cellulose”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM204-4.1-Cellulose.pdf)
+    [“Cellulose”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM204-4.1-Cellulose.pdf)
     (PDF),
-    [“Glycogen”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM204-4.1-Glycogen.pdf)
+    [“Glycogen”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM204-4.1-Glycogen.pdf)
     (PDF) and
-    [“Starch”](http://www.saylor.org/site/wp-content/uploads/2013/03/CHEM204-4.1-Starch.pdf)
+    [“Starch”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/CHEM204-4.1-Starch.pdf)
     (PDF)  
       
      Instructions: Read each article to understand the structure,
